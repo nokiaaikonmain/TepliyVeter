@@ -1,0 +1,10 @@
+body {
+    font-family: "Aleo", serif;
+    font-optical-sizing: auto;
+    font-weight: auto;
+    font-style: normal;
+    background-color: deeppink;
+  }
+  .title-h1{
+    font-size: 74px;
+  }
